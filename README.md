@@ -1,2 +1,0 @@
-# Reports
-Report for Salary
